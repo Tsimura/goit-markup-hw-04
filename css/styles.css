@@ -377,6 +377,7 @@ body {
 .filter-list-button:hover,
 .filter-list-button:focus {
   background: #2196f3;
+  color: #ffffff;
 }
 .filter-title-name {
   font-weight: bold;
