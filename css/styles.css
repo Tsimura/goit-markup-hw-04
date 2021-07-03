@@ -220,7 +220,7 @@ body {
   padding-bottom: 47px;
 }
 
-/* Скрыть заголовок */
+/* Чтобы скрыть заголовок */
 .features-title {
   position: absolute;
   width: 1px;
@@ -247,24 +247,19 @@ body {
 
 /* ========ICON=========== */
 
-/* .feature-box-icon {
+.feature-icon-center {
+  width: 270px;
+  height: 120px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
   background-color: var(--color-bg-feature-icon);
   border-radius: 4px;
 
   margin-bottom: 30px;
 }
-
-.feature-list-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 25px 100px;
-}
-
-.feature-list-icon-svg {
-  display: block;
-  
-}  */
 
 /* ========END ICON=========== */
 
